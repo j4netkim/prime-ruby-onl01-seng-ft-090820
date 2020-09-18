@@ -9,4 +9,4 @@ end
 
 prime?(3)
 
-prime?(4)
+prime?(-1)
