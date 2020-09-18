@@ -5,4 +5,4 @@ def prime?(num)
     n += 1
   end
   true
-end 
+end
